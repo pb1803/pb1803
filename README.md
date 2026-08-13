@@ -6,7 +6,7 @@
 
 <img src="./assets/banner.png" width="100%" alt="Banner"/>
 
-# Hi, I'm Prajwal Bhosale 👋
+# Hi, I'm Prajwal Bhosale
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1200&color=4F8EF7&center=true&vCenter=true&width=850&lines=Systems+%26+Compilers+Enthusiast;Web3+%2F+FHE+Builder;ETHGlobal+Finalist;Published+Researcher;MLSC+President)](https://git.io/typing-svg)
 
@@ -22,14 +22,14 @@
 
 ## ⚡ Executive Summary
 
-🔐 **Systems & Web3 Engineer** focused on privacy-preserving computation (FHE), compilers/systems programming, and applied ML pipelines — a published researcher targeting international research internships and global systems/Web3 roles.
+Systems and Web3 engineer working on privacy-preserving computation (FHE), compilers, and applied ML pipelines. Currently aiming for research internships and global systems/Web3 roles.
 
-- 🎓 **Education:** B.Tech in Computer Engineering @ Vishwakarma Institute of Technology (VIT), Pune — 5th semester, CGPA 8.6, graduating 2028
-- 👑 **Leadership:** President @ Microsoft Learn Student Club (MLSC), VIT
-- 🏆 **Hackathons:** ETHGlobal New Delhi Finalist; Fhenix FHE Hackathon (AI track)
-- 📄 **Research:** Co-author (3rd), ICIRSET 2025 — *"Cityzen: A Machine Learning Pipeline for Automating Urban Governance..."* (SciTePress)
-- 🎯 **Focus Areas:** Fully Homomorphic Encryption (FHE), compiler & DSL design, Web3 protocols, applied ML for civic systems
-- ⚔️ **Competitive Programming:** Actively training on Codeforces & LeetCode — hard-difficulty DP, graph, and binary-search problems in C++
+- **Education:** B.Tech Computer Engineering, Vishwakarma Institute of Technology (VIT), Pune — 5th semester, CGPA 8.6, graduating 2028
+- **Leadership:** President, Microsoft Learn Student Club (MLSC), VIT
+- **Hackathons:** ETHGlobal New Delhi Finalist; Fhenix FHE Hackathon (AI track)
+- **Research:** 3rd co-author, ICIRSET 2025 — *"Cityzen: A Machine Learning Pipeline for Automating Urban Governance..."* (SciTePress)
+- **Focus Areas:** Web3 protocols, FHE, and applied ML for civic systems
+- **Competitive Programming:** Training on Codeforces and LeetCode — hard-difficulty DP, graph, and binary-search problems in C++
 
 ---
 
@@ -65,13 +65,9 @@
 
 <div align="center">
 
-<a href="https://codeforces.com/profile/pb1803">
-  <img height="200em" src="https://codeforces-readme-stats.vercel.app/api/card?username=pb1803" alt="Codeforces Stats"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://leetcode.com/Bhosale18">
-  <img height="200em" src="https://leetcode-stats-card.vercel.app/?username=Bhosale18&theme=dark" alt="LeetCode Stats"/>
-</a>
+| Codeforces | LeetCode |
+| :-: | :-: |
+| [![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=pb1803&theme=dark)](https://codeforces.com/profile/pb1803) | ![LeetCode Stats](https://leetcard.jacoblin.cool/Bhosale18?theme=dark&extension=activity) |
 
 </div>
 
@@ -81,74 +77,71 @@
 
 ## 🚀 Featured Projects
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center"><b>01. FinVeil</b></h3>
-      <p align="center">
-        <a href="#"><img src="https://img.shields.io/badge/GitHub-Repo_coming_soon-lightgrey" alt="Repo coming soon"/></a>
-      </p>
-      <hr/>
-      <p>Privacy-preserving financial credibility system — an FHE-based "encrypted financial passport" with scoped disclosure permits, built on <b>Fhenix CoFHE</b>.</p>
-      <ul>
-        <li><b>Origin:</b> FHE BUIDL Mumbai hackathon; refined at Fhenix FHE Hackathon (AI track).</li>
-        <li><b>Ownership:</b> Full-stack + blockchain integration.</li>
-        <li><b>Tech Stack:</b> Solidity, React, Node.js/TypeScript, Supabase.</li>
-      </ul>
-      <!-- TODO: Insert GitHub link once repo is shared (currently under teammate's repo). -->
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center"><b>02. PBLang Compiler</b></h3>
-      <p align="center">
-        <a href="#"><img src="https://img.shields.io/badge/GitHub-Repo_coming_soon-lightgrey" alt="Repo coming soon"/></a>
-      </p>
-      <hr/>
-      <p>Educational programming language that <b>transpiles to C</b>, compiled via <b>GCC</b>.</p>
-      <ul>
-        <li><b>Scope:</b> Full compiler pipeline — lexer, parser, code generation.</li>
-        <li><b>Signals:</b> Compiler design fundamentals in systems programming.</li>
-      </ul>
-      <!-- TODO: Insert GitHub repo link for PBLang. -->
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center"><b>03. NL2SQL</b></h3>
-      <p align="center">
-        <a href="#"><img src="https://img.shields.io/badge/GitHub-Repo_coming_soon-lightgrey" alt="Repo coming soon"/></a>
-      </p>
-      <hr/>
-      <p>C++ <b>natural-language-to-SQL</b> query parser.</p>
-      <ul>
-        <li><b>Performance:</b> Sub-10ms query latency.</li>
-        <li><b>Signals:</b> High-performance parsing & C++ systems work.</li>
-      </ul>
-      <!-- TODO: Insert GitHub repo link for NL2SQL. -->
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center"><b>04. Smart Adaptive Traffic Management</b></h3>
-      <p align="center">
-        <a href="#"><img src="https://img.shields.io/badge/GitHub-Repo_coming_soon-lightgrey" alt="Repo coming soon"/></a>
-      </p>
-      <hr/>
-      <p>Real-time traffic detection and <b>adaptive signal control</b> pipeline.</p>
-      <ul>
-        <li><b>Core:</b> YOLOv11-based real-time vehicle detection.</li>
-        <li><b>Signals:</b> Applied computer vision at the systems edge.</li>
-      </ul>
-      <!-- TODO: Insert GitHub repo link for Smart Adaptive Traffic Management. -->
-    </td>
-  </tr>
-</table>
+<details>
+<summary>📁 FinVeil — Privacy-Preserving Financial Credibility System</summary>
+<br>
+
+FHE-based "encrypted financial passport" with scoped disclosure permits, built on Fhenix CoFHE.
+
+**Origin:** FHE BUIDL Mumbai hackathon → refined at Fhenix FHE Hackathon (AI track)
+**Ownership:** Full-stack + blockchain integration
+**Stack:** Solidity · React · Node.js/TypeScript · Supabase
+
+`GitHub: coming soon`
+
+<!-- TODO: Insert GitHub link once repo is shared (currently under teammate's repo). -->
+</details>
+
+<details>
+<summary>📁 PBLang Compiler</summary>
+<br>
+
+Educational programming language that transpiles to C, compiled via GCC.
+
+**Scope:** Full compiler pipeline — lexer, parser, code generation.
+**Signals:** Compiler design fundamentals in systems programming.
+
+`GitHub: coming soon`
+
+<!-- TODO: Insert GitHub repo link for PBLang. -->
+</details>
+
+<details>
+<summary>📁 NL2SQL</summary>
+<br>
+
+C++ natural-language-to-SQL query parser.
+
+**Performance:** Sub-10ms query latency.
+**Signals:** High-performance parsing and C++ systems work.
+
+`GitHub: coming soon`
+
+<!-- TODO: Insert GitHub repo link for NL2SQL. -->
+</details>
+
+<details>
+<summary>📁 Smart Adaptive Traffic Management</summary>
+<br>
+
+Real-time traffic detection and adaptive signal control pipeline.
+
+**Core:** YOLOv11-based real-time vehicle detection.
+**Signals:** Applied computer vision at the systems edge.
+
+`GitHub: coming soon`
+
+<!-- TODO: Insert GitHub repo link for Smart Adaptive Traffic Management. -->
+</details>
 
 ---
 
 ## 📄 Research & Leadership
 
-- 📄 **Published Research:** *"Cityzen: A Machine Learning Pipeline for Automating Urban Governance through Multi-Modal Civic Issue Triage and Prioritization"* — Co-author (3rd), **ICIRSET 2025**, SciTePress. [DOI: 10.5220/0014519200005061](https://doi.org/10.5220/0014519200005061)
-- 🏆 **ETHGlobal New Delhi Finalist** — selected finalist among global teams.
+- **Published Research:** *"Cityzen: A Machine Learning Pipeline for Automating Urban Governance through Multi-Modal Civic Issue Triage and Prioritization"* — Co-author (3rd), **ICIRSET 2025**, SciTePress. [DOI: 10.5220/0014519200005061](https://doi.org/10.5220/0014519200005061)
+- **ETHGlobal New Delhi Finalist** — selected finalist among global teams.
   <!-- TODO: Insert ETHGlobal project/profile link when available. -->
-- 👑 **President, Microsoft Learn Student Club (MLSC), VIT** — leading community & technical initiatives, mentorship, and workshop delivery for 400+ members at VIT Pune.
+- **President, Microsoft Learn Student Club (MLSC), VIT** — leading community and technical initiatives, mentorship, and workshops for 400+ members at VIT Pune.
 
 ---
 
