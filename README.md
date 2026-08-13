@@ -8,7 +8,7 @@
 
 # Hi, I'm Prajwal Bhosale 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=1200&color=4F8EF7&center=true&vCenter=true&width=850&lines=Building+scalable+full-stack+applications+with+Web3%2C+AI+integrations%2C+and+modern+cloud+technologies.;Full+Stack+Developer;Hackathon+Builder;MLSC+President;Always+Learning%2C+Always+Building.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1200&color=4F8EF7&center=true&vCenter=true&width=850&lines=MERN+%26+Full-Stack+Developer;Building+AI+%26+Web3+Apps;Hackathon+Winner;MLSC+President;Learn%2C+Build%2C+Ship%2C+Repeat.)](https://git.io/typing-svg)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=pb1803&style=for-the-badge&color=007acc" alt="Profile Views"/>
