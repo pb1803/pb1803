@@ -20,33 +20,33 @@
 
 ---
 
-## ⚡ Executive Summary
+## Executive Summary
 
-Systems and Web3 engineer working on privacy-preserving computation (FHE), compilers, and applied ML pipelines. Currently aiming for research internships and global systems/Web3 roles.
+### Systems & Web3 engineer — FHE, compilers, applied ML.
 
-- **Education:** B.Tech Computer Engineering, Vishwakarma Institute of Technology (VIT), Pune — 5th semester, CGPA 8.6, graduating 2028
+- **Education:** B.Tech Computer Engineering, VIT Pune — 5th semester, CGPA **8.6**, 2028
 - **Leadership:** President, Microsoft Learn Student Club (MLSC), VIT
 - **Hackathons:** ETHGlobal New Delhi Finalist; Fhenix FHE Hackathon (AI track)
-- **Research:** 3rd co-author, ICIRSET 2025 — *"Cityzen: A Machine Learning Pipeline for Automating Urban Governance..."* (SciTePress)
-- **Focus Areas:** Web3 protocols, FHE, and applied ML for civic systems
-- **Competitive Programming:** Training on Codeforces and LeetCode — hard-difficulty DP, graph, and binary-search problems in C++
+- **Research:** 3rd co-author, ICIRSET 2025 · [![Published at SciTePress](https://img.shields.io/badge/Published-SciTePress-003876?style=for-the-badge)](https://doi.org/10.5220/0014519200005061)
+- **Focus Areas:** Web3 protocols, FHE, applied ML for civic systems
+- **Competitive Programming:** Codeforces + LeetCode — hard DP/graph/binary-search in **C++**
 
 ---
 
-## 🛠️ Tech Stack & Tooling
+## Tech Stack
 
 <div align="center">
 
 | Category | Technologies |
 | :--- | :--- |
-| **Languages** | `C++` (primary) `TypeScript` `JavaScript` `Solidity` `Python` |
-| **Systems / Compilers** | `GCC toolchain` `DSL / compiler design` `eBPF (exposure)` |
-| **Web3** | `Solidity` `Ethers.js` `Hardhat` `Fhenix CoFHE (FHE)` |
-| **Backend** | `Node.js` `Express.js` `REST APIs` |
-| **Frontend** | `React` `Next.js` `TailwindCSS` |
-| **Databases** | `PostgreSQL` `MongoDB` `Supabase` |
-| **Cloud & DevOps** | `AWS` `Docker` `Git` `GitHub Actions` |
-| **AI / ML** | `Google ML Kit (OCR)` `Applied ML pipelines (ICIRSET 2025)` |
+| <h4>Languages</h4> | `C++` (primary) `TypeScript` `JavaScript` `Solidity` `Python` |
+| <h4>Systems / Compilers</h4> | `GCC toolchain` `DSL / compiler design` `eBPF (exposure)` |
+| <h4>Web3</h4> | `Solidity` `Ethers.js` `Hardhat` `Fhenix CoFHE (FHE)` |
+| <h4>Backend</h4> | `Node.js` `Express.js` `REST APIs` |
+| <h4>Frontend</h4> | `React` `Next.js` `TailwindCSS` |
+| <h4>Databases</h4> | `PostgreSQL` `MongoDB` `Supabase` |
+| <h4>Cloud & DevOps</h4> | `AWS` `Docker` `Git` `GitHub Actions` |
+| <h4>AI / ML</h4> | `Google ML Kit (OCR)` `Applied ML pipelines (ICIRSET 2025)` |
 
 <br/>
 
@@ -61,7 +61,7 @@ Systems and Web3 engineer working on privacy-preserving computation (FHE), compi
 
 ---
 
-## 🏆 Competitive Programming
+## Competitive Programming
 
 <div align="center">
 
@@ -71,17 +71,17 @@ Systems and Web3 engineer working on privacy-preserving computation (FHE), compi
 
 </div>
 
-> Currently focused on hard-difficulty **DP, graph, and binary-search** problems in C++.
+> Currently focused on hard-difficulty **DP, graph, and binary-search** problems in **C++**.
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <details>
 <summary>📁 FinVeil — Privacy-Preserving Financial Credibility System</summary>
 <br>
 
-FHE-based "encrypted financial passport" with scoped disclosure permits, built on Fhenix CoFHE.
+FHE-based **"encrypted financial passport"** with scoped disclosure permits, built on **Fhenix CoFHE**.
 
 **Origin:** FHE BUIDL Mumbai hackathon → refined at Fhenix FHE Hackathon (AI track)
 **Ownership:** Full-stack + blockchain integration
@@ -96,7 +96,7 @@ FHE-based "encrypted financial passport" with scoped disclosure permits, built o
 <summary>📁 PBLang Compiler</summary>
 <br>
 
-Educational programming language that transpiles to C, compiled via GCC.
+Educational programming language that **transpiles to C**, compiled via **GCC**.
 
 **Scope:** Full compiler pipeline — lexer, parser, code generation.
 **Signals:** Compiler design fundamentals in systems programming.
@@ -112,7 +112,7 @@ Educational programming language that transpiles to C, compiled via GCC.
 
 C++ natural-language-to-SQL query parser.
 
-**Performance:** Sub-10ms query latency.
+**Performance:** **Sub-10ms** query latency.
 **Signals:** High-performance parsing and C++ systems work.
 
 `GitHub: coming soon`
@@ -126,7 +126,7 @@ C++ natural-language-to-SQL query parser.
 
 Real-time traffic detection and adaptive signal control pipeline.
 
-**Core:** YOLOv11-based real-time vehicle detection.
+**Core:** **YOLOv11**-based real-time vehicle detection.
 **Signals:** Applied computer vision at the systems edge.
 
 `GitHub: coming soon`
@@ -136,16 +136,16 @@ Real-time traffic detection and adaptive signal control pipeline.
 
 ---
 
-## 📄 Research & Leadership
+## Research & Leadership
 
-- **Published Research:** *"Cityzen: A Machine Learning Pipeline for Automating Urban Governance through Multi-Modal Civic Issue Triage and Prioritization"* — Co-author (3rd), **ICIRSET 2025**, SciTePress. [DOI: 10.5220/0014519200005061](https://doi.org/10.5220/0014519200005061)
+- **Published Research:** *"Cityzen: A Machine Learning Pipeline for Automating Urban Governance through Multi-Modal Civic Issue Triage and Prioritization"* — 3rd co-author, **ICIRSET 2025**. [![Published at SciTePress](https://img.shields.io/badge/Published-SciTePress-003876?style=for-the-badge)](https://doi.org/10.5220/0014519200005061)
 - **ETHGlobal New Delhi Finalist** — selected finalist among global teams.
   <!-- TODO: Insert ETHGlobal project/profile link when available. -->
-- **President, Microsoft Learn Student Club (MLSC), VIT** — leading community and technical initiatives, mentorship, and workshops for 400+ members at VIT Pune.
+- **President, Microsoft Learn Student Club (MLSC), VIT** — leading community and technical initiatives, mentorship, and workshops for **400+** members at VIT Pune.
 
 ---
 
-## 📊 GitHub Analytics & Engineering Stats
+## GitHub Analytics & Engineering Stats
 
 <div align="center">
 
@@ -162,7 +162,7 @@ Real-time traffic detection and adaptive signal control pipeline.
 
 ---
 
-## 📬 Connect & Collaborate
+## Connect & Collaborate
 
 <p align="left">
   <a href="https://www.linkedin.com/in/prajwal-bhosale-4172b232a/">
