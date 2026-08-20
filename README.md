@@ -35,29 +35,40 @@
 
 ### Tech Stack
 
-**Languages**  
-<img src="https://skillicons.dev/icons?i=cpp,ts,js,solidity,python" />
-
-**Systems & Compilers**  
-GCC toolchain · DSL/compiler design · eBPF (exposure)
-
-**Web3**  
-<img src="https://skillicons.dev/icons?i=solidity,hardhat" /> Ethers.js · Fhenix CoFHE (FHE)
-
-**Backend**  
-<img src="https://skillicons.dev/icons?i=nodejs,express" /> REST APIs
-
-**Frontend**  
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
-
-**Databases**  
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,supabase" />
-
-**Cloud & DevOps**  
-<img src="https://skillicons.dev/icons?i=aws,docker,git,githubactions" />
-
-**AI / ML**  
-Google ML Kit (OCR) · Applied ML pipelines (ICIRSET 2025)
+<table>
+<tr>
+<td><strong>Languages</strong></td>
+<td><img src="https://skillicons.dev/icons?i=cpp,ts,js,solidity,python" height="28" valign="middle" /></td>
+</tr>
+<tr>
+<td><strong>Systems & Compilers</strong></td>
+<td>GCC toolchain · DSL/compiler design · eBPF (exposure)</td>
+</tr>
+<tr>
+<td><strong>Web3</strong></td>
+<td><img src="https://skillicons.dev/icons?i=solidity,hardhat" height="28" valign="middle" /> Ethers.js · Fhenix CoFHE (FHE)</td>
+</tr>
+<tr>
+<td><strong>Backend</strong></td>
+<td><img src="https://skillicons.dev/icons?i=nodejs,express" height="28" valign="middle" /> REST APIs</td>
+</tr>
+<tr>
+<td><strong>Frontend</strong></td>
+<td><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" height="28" valign="middle" /></td>
+</tr>
+<tr>
+<td><strong>Databases</strong></td>
+<td><img src="https://skillicons.dev/icons?i=postgres,mongodb,supabase" height="28" valign="middle" /></td>
+</tr>
+<tr>
+<td><strong>Cloud & DevOps</strong></td>
+<td><img src="https://skillicons.dev/icons?i=aws,docker,git,githubactions" height="28" valign="middle" /></td>
+</tr>
+<tr>
+<td><strong>AI / ML</strong></td>
+<td>Google ML Kit (OCR) · Applied ML pipelines (ICIRSET 2025)</td>
+</tr>
+</table>
 
 ---
 
@@ -77,62 +88,18 @@ Google ML Kit (OCR) · Applied ML pipelines (ICIRSET 2025)
 
 ## Featured Projects
 
-<details>
-<summary>📁 FinVeil — Privacy-Preserving Financial Credibility System</summary>
-<br>
-
-FHE-based **"encrypted financial passport"** with scoped disclosure permits, built on **Fhenix CoFHE**.
-
-**Origin:** FHE BUIDL Mumbai hackathon → refined at Fhenix FHE Hackathon (AI track)
-**Ownership:** Full-stack + blockchain integration
-**Stack:** Solidity · React · Node.js/TypeScript · Supabase
-
-`GitHub: coming soon`
-
-<!-- TODO: Insert GitHub link once repo is shared (currently under teammate's repo). -->
-</details>
-
-<details>
-<summary>📁 PBLang Compiler</summary>
-<br>
-
-Educational programming language that **transpiles to C**, compiled via **GCC**.
-
-**Scope:** Full compiler pipeline — lexer, parser, code generation.
-**Signals:** Compiler design fundamentals in systems programming.
-
-`GitHub: coming soon`
-
-<!-- TODO: Insert GitHub repo link for PBLang. -->
-</details>
-
-<details>
-<summary>📁 NL2SQL</summary>
-<br>
-
-C++ natural-language-to-SQL query parser.
-
-**Performance:** **Sub-10ms** query latency.
-**Signals:** High-performance parsing and C++ systems work.
-
-`GitHub: coming soon`
-
-<!-- TODO: Insert GitHub repo link for NL2SQL. -->
-</details>
-
-<details>
-<summary>📁 Smart Adaptive Traffic Management</summary>
-<br>
-
-Real-time traffic detection and adaptive signal control pipeline.
-
-**Core:** **YOLOv11**-based real-time vehicle detection.
-**Signals:** Applied computer vision at the systems edge.
-
-`GitHub: coming soon`
-
-<!-- TODO: Insert GitHub repo link for Smart Adaptive Traffic Management. -->
-</details>
+<div align="center">
+<table>
+<tr>
+<td align="center"><a href="https://github.com/pb1803/FinVeil"><img src="https://github-readme-stats-alpha.vercel.app/api/pin/?username=pb1803&repo=FinVeil&theme=tokyonight" /></a></td>
+<td align="center"><a href="https://github.com/pb1803/PBLang"><img src="https://github-readme-stats-alpha.vercel.app/api/pin/?username=pb1803&repo=PBLang&theme=tokyonight" /></a></td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/pb1803/NL2SQL"><img src="https://github-readme-stats-alpha.vercel.app/api/pin/?username=pb1803&repo=NL2SQL&theme=tokyonight" /></a></td>
+<td align="center"><a href="https://github.com/pb1803/Smart-Signal-System"><img src="https://github-readme-stats-alpha.vercel.app/api/pin/?username=pb1803&repo=Smart-Signal-System&theme=tokyonight" /></a></td>
+</tr>
+</table>
+</div>
 
 ---
 
@@ -150,12 +117,12 @@ Real-time traffic detection and adaptive signal control pipeline.
 <div align="center">
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pb1803&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pb1803&layout=compact&theme=tokyonight&hide=html,css"/>
+  <img height="180em" src="https://github-readme-stats-alpha.vercel.app/api?username=pb1803&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-alpha.vercel.app/api/top-langs/?username=pb1803&layout=compact&theme=tokyonight&hide=html,css"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pb1803&theme=tokyonight" alt="Streak Stats"/>
+  <img src="https://streak-stats.demolab.com/?user=pb1803&theme=tokyonight" alt="Streak Stats"/>
 </p>
 
 </div>
