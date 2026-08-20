@@ -27,37 +27,37 @@
 - **Education:** B.Tech Computer Engineering, VIT Pune — 5th semester, CGPA **8.6**, 2028
 - **Leadership:** President, Microsoft Learn Student Club (MLSC), VIT
 - **Hackathons:** ETHGlobal New Delhi Finalist; Fhenix FHE Hackathon (AI track)
-- **Research:** 3rd co-author, ICIRSET 2025 · [![Published at SciTePress](https://img.shields.io/badge/Published-SciTePress-003876?style=for-the-badge)](https://doi.org/10.5220/0014519200005061)
 - **Focus Areas:** Web3 protocols, FHE, applied ML for civic systems
 - **Competitive Programming:** Codeforces + LeetCode — hard DP/graph/binary-search in **C++**
+- **Research:** 3rd co-author, ICIRSET 2025 · [![Published at SciTePress](https://img.shields.io/badge/Published-SciTePress-003876?style=for-the-badge)](https://doi.org/10.5220/0014519200005061)
 
 ---
 
-## Tech Stack
+### Tech Stack
 
-<div align="center">
+**Languages**  
+<img src="https://skillicons.dev/icons?i=cpp,ts,js,solidity,python" />
 
-| Category | Technologies |
-| :--- | :--- |
-| <h4>Languages</h4> | `C++` (primary) `TypeScript` `JavaScript` `Solidity` `Python` |
-| <h4>Systems / Compilers</h4> | `GCC toolchain` `DSL / compiler design` `eBPF (exposure)` |
-| <h4>Web3</h4> | `Solidity` `Ethers.js` `Hardhat` `Fhenix CoFHE (FHE)` |
-| <h4>Backend</h4> | `Node.js` `Express.js` `REST APIs` |
-| <h4>Frontend</h4> | `React` `Next.js` `TailwindCSS` |
-| <h4>Databases</h4> | `PostgreSQL` `MongoDB` `Supabase` |
-| <h4>Cloud & DevOps</h4> | `AWS` `Docker` `Git` `GitHub Actions` |
-| <h4>AI / ML</h4> | `Google ML Kit (OCR)` `Applied ML pipelines (ICIRSET 2025)` |
+**Systems & Compilers**  
+GCC toolchain · DSL/compiler design · eBPF (exposure)
 
-<br/>
+**Web3**  
+<img src="https://skillicons.dev/icons?i=solidity,hardhat" /> Ethers.js · Fhenix CoFHE (FHE)
 
-<!-- Interactive Icon Cloud -->
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,ts,js,react,nextjs,nodejs,solidity,python,postgres,mongodb,aws,docker,git,tailwind&perline=7" />
-  </a>
-</p>
+**Backend**  
+<img src="https://skillicons.dev/icons?i=nodejs,express" /> REST APIs
 
-</div>
+**Frontend**  
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
+
+**Databases**  
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,supabase" />
+
+**Cloud & DevOps**  
+<img src="https://skillicons.dev/icons?i=aws,docker,git,githubactions" />
+
+**AI / ML**  
+Google ML Kit (OCR) · Applied ML pipelines (ICIRSET 2025)
 
 ---
 
